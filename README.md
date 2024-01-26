@@ -10,6 +10,7 @@
 
 ## 🛠️기술스택
 * Eclipse
+* Spring MVC
 * Java11
 * ThymeLeaf
 * Oracle
