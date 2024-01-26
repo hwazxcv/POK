@@ -9,7 +9,7 @@
   * 핵심 기능 : 상품 등록 및 결제
 
 ## 🛠️기술스택
-* Intelli J
+* Eclipse
 * Java11
 * ThymeLeaf
 * Oracle
